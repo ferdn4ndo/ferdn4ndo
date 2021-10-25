@@ -111,10 +111,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/ferdn4ndo">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ferdn4ndo&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdn4ndo&layout=compact&langs_count=10&hide_border=true&theme=merko"/>
-  </a>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ferdn4ndo&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdn4ndo&layout=compact&langs_count=10&hide_border=true&theme=merko"/>
 </p>
 
 ### 🤝 &nbsp;Connect with Me
