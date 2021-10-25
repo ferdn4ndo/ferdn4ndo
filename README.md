@@ -7,7 +7,7 @@
 ### 👋 &nbsp;About Me
 
 👽 &nbsp;Peace among worlds!\
-🇧🇷 &nbsp;I'm a Brazilian tech leader focused on backend systems and web services.\
+🇧🇷 &nbsp;I'm a Brazilian senior tech leader focused on backend systems and distributed web services.\
 📡 &nbsp;I have a Bachelor’s degree in Electronics Engineering the Technological Federal University of Paraná (UTFPR). \
 🚇 &nbsp;I have a Master's degree in Electrical Engineering at Technological Federal University of Paraná (UTFPR).\
 🤖 &nbsp;My main research area is computational intelligence for nondeterministic problems (metaheuristics).\
