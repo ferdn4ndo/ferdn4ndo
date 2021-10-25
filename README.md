@@ -113,6 +113,7 @@
 <p align="center">
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ferdn4ndo&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdn4ndo&layout=compact&langs_count=10&hide_border=true&theme=merko"/>
+  <img height="250em" src="https://github-profile-trophy.vercel.app/?username=ferdn4ndo&column=3&no-frame=true&margin-w=5&margin-h=5&theme=juicyfresh"/>
 </p>
 
 ### 🤝 &nbsp;Connect with Me
