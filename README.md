@@ -1,12 +1,13 @@
+<p align="center">
+  <img alt="Hand waving" src="https://c.tenor.com/YNgfQ0oQTHwAAAAC/trippy-cat.gif" width="400" align="center"/>
+</p>
 
-
-<img alt="Hand waving" src="https://c.tenor.com/YNgfQ0oQTHwAAAAC/trippy-cat.gif" width='400' align="left"/>
 <h2><i>I'm a flavor in the chaos!</i></h2>
 
 ### 👋 &nbsp;About Me
 
-👽 &nbsp;Peace among worlds!
-🇧🇷 &nbsp; I'm a Brazilian tech leader focused on backend systems and web services.\
+👽 &nbsp;Peace among worlds!\
+🇧🇷 &nbsp;I'm a Brazilian tech leader focused on backend systems and web services.\
 📡 &nbsp;I have a Bachelor’s degree in Electronics Engineering the Technological Federal University of Paraná (UTFPR). \
 🚇 &nbsp;I have a Master's degree in Electrical Engineering at Technological Federal University of Paraná (UTFPR).\
 🤖 &nbsp;My main research area is computational intelligence for nondeterministic problems (metaheuristics).\
@@ -129,7 +130,7 @@
 <p align="center">
   <a href="https://github.com/ferdn4ndo">
     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ferdn4ndo&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdn4ndo&layout=compact&langs_count=8&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdn4ndo&layout=compact&langs_count=10&hide_border=true&theme=merko"/>
   </a>
 </p>
 
