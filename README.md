@@ -128,7 +128,7 @@
     <img src="https://img.shields.io/badge/-@fernandoconstantino-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
   <!-- Facebook -->
-  <a href="https://facebook.com/AVS1508">
+  <a href="https://www.facebook.com/const.fernando/">
     <img src="https://img.shields.io/badge/-Fernando%20Constantino-3A55BD?style=flat&logo=Facebook&logoColor=white"/>
   </a>
   <!-- Website -->
