@@ -7,19 +7,22 @@
 ### 👋 &nbsp;About Me
 
 👽 &nbsp;Peace among worlds!\
-🇧🇷 &nbsp;I'm a Brazilian senior tech leader focused on backend systems and distributed web services.\
+🇧🇷  &nbsp;I'm a Brazilian senior developer focused on backend systems and distributed web services.\
 📡 &nbsp;I have a Bachelor’s degree in Electronics Engineering the Technological Federal University of Paraná (UTFPR). \
 🚇 &nbsp;I have a Master's degree in Electrical Engineering at Technological Federal University of Paraná (UTFPR).\
 🤖 &nbsp;My main research area is computational intelligence for nondeterministic problems (metaheuristics).\
-🌎 &nbsp;Pursuing a world with more respect, social equality, environment-driven thinking, and libertarism.
+🌎 &nbsp;Pursuing a world with more respect, social equality, environment-driven thinking, and science.
 
 ### 🛠 &nbsp;Tech Stack
 
 
 #### Languages/Databases
 
+
+![Go](https://img.shields.io/badge/go-%231BCBF2.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![C# (.NET)](https://img.shields.io/badge/C%23%20%28.NET%29-%237f07ab.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
@@ -119,19 +122,19 @@
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/fernando-constantino-b5b0aa4a/">
+  <a href="https://www.linkedin.com/in/fernando-constantino-b5b0aa4a/" target="_blank">
     <img src="https://img.shields.io/badge/-Fernando%20Constantino-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/fernandoconstantino/">
+  <a href="https://www.instagram.com/fernandoconstantino/" target="_blank">
     <img src="https://img.shields.io/badge/-@fernandoconstantino-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
   <!-- Facebook -->
-  <a href="https://www.facebook.com/const.fernando/">
+  <a href="https://www.facebook.com/const.fernando/" target="_blank">
     <img src="https://img.shields.io/badge/-Fernando%20Constantino-3A55BD?style=flat&logo=Facebook&logoColor=white"/>
   </a>
   <!-- Website -->
-  <a href="https://fconstantino.com.br/">
+  <a href="https://fconstantino.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/-fconstantino.com.br-3A55BD?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABPhJREFUWEfFl31QFHUcxp/dvRfgDlA7zjfSaDx0UhDzJUatGVIZAnOml2HUGk0oDcO3UzJJ6EYUxFOUmLTTLCozoZHRP3JGQqtxKN6cNE2BjkYdNI94kZfguLvdX7Nru3MHd9zeX+yfu8/zfT773d/bUhjlixrlfAQMcPhs9kQ6lE21s6qkQ/Vrp4CiHKDINQqkIjQMldbNhsFAXkoWgKncpCpteb203xW0KlzViy3zv8ae6o2+cgYpkPdsOYaTckD8AhRfzDrKKNkMa+eTOH37ZTk1Bc2u+OOEOJkEY3LBzyOZfAKYfjQpnuB6OyiKhIkFWnvG4/Mbr8mCWD3je0SNbYW57u1vW7Onr/Zl8gqw3mJRxhqa7ABo3shyNB706lF68xUQmcNGH9SBSaE2rIj+CSzHXN2y1DzPG4RXgJJL2wcoigSJ4RyhMeBS40jDWllvL4qynjuJYMXjMcmxirLNyw6sHFpgGEBxZVYlo2CXicIj9WvQ49AGFJw4tRrxkdfRM6hB8dU1oECwduY56FRd8VkpBbXuxTwACs+bJmlCe+6LAr7dedUZAYXz4ojgTmyYU4aDtWmIiWiC3aXGjfbpGKvuZpven6vwCVBSteMORXNTRUFR3Vvoc4YEDKAP6UBy1BVMGfNA8Hbbw/DNHynodWqw7dlTbxiT8k+LRaUOWCwWZffUe45+ZxBq/45B0tPV2PfrhoDDecPWuV8hLKjPq5cQ9G9aUqQZBnD44gdpx66lnnzkeDzrIrUP0do3IWCAjLgziNB0juhrp8KUpgSTixdJHfi4Kuv3UzeXx/ChFEXg5Dw+lWyQ3EVH/WqddvXibckF1R4A+Rdy7AzNqVWMAyeupaLdPtZvIW8CWQAO5YFtSYU7PQD0eVZO7Mg7sd/h/J9L0DYwTphCfJs4mQuQcX4ptKr+EeE5Vlm1eVmhMNWlT6DPsxLRpWYcSIupAEOxGBfSLdzucwSjqH6d367wwDmLjo2oIxxzedNS85KhAPySpXJ3bowrg07TId0ihMKNNgPOWZeOGPD85AboNR2oaE6EYcxdvDrjB6gYp+RhHcwnW5LMmUMBmgEY3LuwM/4zr0HmmnQMsGq/3RAFhjF3sGrmBUk/OKhO2f5SgXDD/RNkATggqiI1NqTFnfUZ4mIZ1D6YjUv34mWBuA9OR3tkiDHVOOABMN58XUPsGmn1oCkOuxd+6rf43l/eBb9Z+bvcANjMF4ukOe6xF+jzrI8AhIvF1s8uxwRtu8/a/Kp5sC7NX7bwXARwuZR7tiYWfiSaPAB0e1vm0YTUiw+DFXbsWPCFsDB5u0oa3kTXoHRe8QmioFhkL7QIzzMTDtHuBYdtx/q8lr8AEiVW46fih/+b3RNcrAL5NetlvT0vWjerAuODOzOMSfs9vuvwA0k5YfRNLfycEZ5plf/CuOBLjyBr5xScvr1cdrgw2Ai5Zcs1zBxq8noi0pkaJ9GMQjgXTNY+RPrsCg/f8d9S8bBfFwjAo7acaV7Xdp+HUt2+OxNpznU/LqKRWhF9WQo7cysZzV1PBRJ+ry1nmnTGkNUBSWQidLrhxO05Exuj+XsXrC+gwTZLdjhFyH5brmHXSAa//wW82Xw+O/Z6d3RV5d3FETLTq8LCyXI5f0myAKRQS4NS/0/4ShCK/y16BgB/suF30S4QcoWicdC221AjE1KQBQYQSGWZ2lEH+A94DLMwqia+yAAAAABJRU5ErkJggg==&logoColor=white"/>
   </a>
 </p>
