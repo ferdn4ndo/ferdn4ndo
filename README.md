@@ -18,10 +18,10 @@
 
 #### Languages/Databases
 
-
 ![Go](https://img.shields.io/badge/go-%231BCBF2.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)&nbsp;
 ![C# (.NET)](https://img.shields.io/badge/C%23%20%28.NET%29-%237f07ab.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
