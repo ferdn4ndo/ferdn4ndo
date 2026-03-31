@@ -11,7 +11,7 @@
 📡 &nbsp;I have a Bachelor’s degree in Electronics Engineering the Technological Federal University of Paraná (UTFPR). \
 🚇 &nbsp;I have a Master's degree in Electrical Engineering at Technological Federal University of Paraná (UTFPR).\
 🤖 &nbsp;My main research area is computational intelligence for nondeterministic problems (metaheuristics).\
-🌎 &nbsp;Pursuing a world with more respect, social equality, environment-driven thinking, and science.
+🌎 &nbsp;Pursuing a world with more respect, social equality, environment-driven thinking, and science-based decisions.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,7 +34,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
-#### SCRUM/Agile Tools
+#### SCRUM/Agile/Kanban Tools
 
 ![Linear](https://img.shields.io/badge/linear-%23D1D9DA.svg?style=for-the-badge&logo=linear&logoColor=black)&nbsp;
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
@@ -45,13 +45,15 @@
 #### Frameworks, Platforms and Libraries
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Darwin.ai](https://img.shields.io/badge/darwin.ai-%23F0F3F1.svg?style=for-the-badge)&nbsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)&nbsp;
+![DjangoREST](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)&nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
+![N8N](https://img.shields.io/badge/n8n-%230E0918.svg?style=for-the-badge&logo=n8n&logoColor=red)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
@@ -70,6 +72,7 @@
 
 #### IDEs/Editors/Tools
 
+![Cursor](https://img.shields.io/badge/cursor-%230E0F0D.svg?style=for-the-badge&logo=cursor&logoColor=white)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
@@ -100,6 +103,7 @@
 #### Operational Systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows 11](https://img.shields.io/badge/Windows%2011-0088F6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Windows 7](https://img.shields.io/badge/Windows%207-0060ab?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)&nbsp;
